@@ -4,7 +4,7 @@ my github pages
 
 ## URL
 
-http://178inaba.github.io/
+http://www.178inaba.com
 
 ## licence
 
