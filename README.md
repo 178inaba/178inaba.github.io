@@ -1,11 +1,15 @@
 # 178inaba.github.io
 
-my github pages
+My GitHub Pages.
 
 ## URL
 
 http://www.178inaba.com
 
-## licence
+## License
 
-MIT
+[MIT](LICENSE)
+
+## Author
+
+[178inaba](https://github.com/178inaba)
